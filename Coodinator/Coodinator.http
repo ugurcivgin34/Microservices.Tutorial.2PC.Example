@@ -1,0 +1,6 @@
+@Coodinator_HostAddress = http://localhost:5175
+
+GET {{Coodinator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
